@@ -1,0 +1,14 @@
+<form>
+        <p>
+            <label for="username">Username</label>
+            <input id="username" type="text" placeholder="Username">
+        </p>
+        <p>
+            <label for="password">Password</label>
+            <input type="password" placeholder="Password" id="password">
+        </p>
+        <p>
+            <button>Register</button>
+        </p>
+</form>
+       
